@@ -1,4 +1,4 @@
-python >= 3.6.4
+python >= 3.7
 absl-py==0.14.0
 argcomplete==1.12.3
 argon2-cffi==21.1.0
